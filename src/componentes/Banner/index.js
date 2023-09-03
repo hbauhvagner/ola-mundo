@@ -11,7 +11,9 @@ export default function Banner() {
                 </h1>
 
                 <p className={styles.paragrafo}>
-                    Boas vindas ao meu espaço pessoal! Eu sou Vagner Nascimento
+                    Boas vindas ao meu espaço pessoal! Eu sou Vagner Nascimento,
+                    desenvolvedor Front-end. Aqui compartilho vários conhecimentos,
+                    espero que aprenda algo novo :)
                 </p>
             </div>
 
